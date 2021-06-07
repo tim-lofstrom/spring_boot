@@ -1,0 +1,13 @@
+2021-06-07 14:36:22,325 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 11.0.11 on LML-5CG0453CCJ with PID 41434 (/home/timlof/workspace/spring-hello/demo/target/classes started by timlof in /home/timlof/workspace/spring-hello/demo)
+2021-06-07 14:36:22,327 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-07 14:36:23,118 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-06-07 14:36:23,119 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 14:36:23,160 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-06-07 14:36:23,472 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 1.463 seconds (JVM running for 1.749)
+2021-06-07 14:36:25,992 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 14:36:26,010 INFO com.example.demo.Test [http-nio-8080-exec-1] Hello!
+2021-06-07 14:36:53,000 INFO com.example.demo.Test [http-nio-8080-exec-2] Hello!
+2021-06-07 14:36:55,170 INFO com.example.demo.Test [http-nio-8080-exec-3] Hello!
+2021-06-07 14:36:55,510 INFO com.example.demo.Test [http-nio-8080-exec-4] Hello!
+2021-06-07 14:36:55,877 INFO com.example.demo.Test [http-nio-8080-exec-5] Hello!
+2021-06-07 14:36:56,246 INFO com.example.demo.Test [http-nio-8080-exec-6] Hello!

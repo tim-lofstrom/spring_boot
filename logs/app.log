@@ -1,0 +1,7 @@
+2021-06-07 14:42:04,540 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 11.0.11 on LML-5CG0453CCJ with PID 42277 (/home/timlof/workspace/spring-hello/demo/target/classes started by timlof in /home/timlof/workspace/spring-hello/demo)
+2021-06-07 14:42:04,542 DEBUG com.example.demo.DemoApplication [restartedMain] Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-07 14:42:04,542 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-07 14:42:05,879 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 1.647 seconds (JVM running for 2.118)
+2021-06-07 14:42:07,822 DEBUG com.example.demo.Test [http-nio-8080-exec-1] Hello!
+2021-06-07 14:42:08,364 DEBUG com.example.demo.Test [http-nio-8080-exec-2] Hello!
+2021-06-07 14:42:08,933 DEBUG com.example.demo.Test [http-nio-8080-exec-3] Hello!
